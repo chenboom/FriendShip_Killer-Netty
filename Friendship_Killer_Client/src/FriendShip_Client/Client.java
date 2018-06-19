@@ -18,7 +18,7 @@ import io.netty.handler.codec.string.StringEncoder;
 public class Client {
 	public static Properties p;
 	public static int port = 8700;
-	public static String host = "118.24.97.138";
+	public static String host = "****";
 	//public static String host = "localhost";
 	private static NioEventLoopGroup workGroup = new NioEventLoopGroup();
 	private Client() {}
